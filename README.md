@@ -1,6 +1,6 @@
 ## Hola, I'm [Afaque Java!](https://afaquejaya.github.io/) 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<!--- REFERENCE= https://github.com/iampawan/iampawan/blob/master/README.md--->
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=afaquejaya&label=Views&color=blue&style=plastic" alt="afaquejaya" /> </p>--->
 
 <a href="https://twitter.com/afaquejaya">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
