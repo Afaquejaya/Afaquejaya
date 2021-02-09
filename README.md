@@ -40,7 +40,7 @@
 - ⚡ Fun fact: I love making animation and art work.
 
 [![Twitter: AfaqueJaya](https://img.shields.io/twitter/follow/afaquejaya?style=social)](https://twitter.com/afaquejaya)
-[![Linkedin: AfaqueJaya](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/afaque-jaya-5b6311134/)
+[![Linkedin: AfaqueJaya](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afaquejaya/)](https://www.linkedin.com/in/afaque-jaya-5b6311134/)
 [![GitHub AfaqueJAya](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Afaquejaya)
 [![website](https://img.shields.io/badge/PortfolioWebsite-AfaqueJaya.io-2648ff?style=flat-square&logo=google-chrome)](https://afaquejaya.github.io/)
 
@@ -48,10 +48,11 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <a href="https://github.com/Afaquejaya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afaquejaya&theme=light&hide_langs_below=1" />
 </a>
