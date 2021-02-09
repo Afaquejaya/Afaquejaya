@@ -2,24 +2,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<a href="https://twitter.com/imthepk">
+<a href="https://twitter.com/afaquejaya">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://www.linkedin.com/in/afaque-jaya-5b6311134/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/Afaquejaya">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/codepur_ka_superhero/">
+
+<a href="https://www.instagram.com/afaque_jaya/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<!---<a href="https://t.me/imthepk">
+  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.facebook.com/imthepk/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a>--->
 <a href="https://www.youtube.com/mtechviral/">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
@@ -29,19 +30,19 @@
 
 
 
-- 🔭 I’m currently working on [CSM Technology](https://csm.co.in).
+- 🔭 I’m currently working in [CSM Technology](https://csm.co.in).
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Android or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/afaquejaya) , [Youtube - @mtechviral](https://www.youtube.com/channel/UCWqwi6gFJEXfWw5SosNekSQ)
+- 📫 How to reach me: [Twitter - @afaquejaya](https://twitter.com/afaquejaya) , [Youtube - @afaquejaya](https://www.youtube.com/channel/UCWqwi6gFJEXfWw5SosNekSQ)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love making animation and art work.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/afaquejaya)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/afaque-jaya-5b6311134/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Afaquejaya)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://afaquejaya.github.io/)
+[![Twitter: AfaqueJaya](https://img.shields.io/twitter/follow/afaquejaya?style=social)](https://twitter.com/afaquejaya)
+[![Linkedin: AfaqueJaya](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/afaque-jaya-5b6311134/)
+[![GitHub AfaqueJAya](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Afaquejaya)
+[![website](https://img.shields.io/badge/PortfolioWebsite-AfaqueJaya.io-2648ff?style=flat-square&logo=google-chrome)](https://afaquejaya.github.io/)
 
 
 **Languages and Tools:**  
@@ -52,10 +53,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/Afaquejaya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afaquejaya&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Afaquejaya">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Afaquejaya&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 <!---<a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
