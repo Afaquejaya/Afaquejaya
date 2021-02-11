@@ -30,7 +30,8 @@
 
 
 
-- 🔭 I’m currently working in [CSM Technology](https://csm.co.in).
+- 🔭 I’m currently working On [State Gov. Project](https://play.google.com/store/apps/details?id=com.evidyavahini.app)
+- 🏢 I’m currently working in [CSM Technology (CMMIL-5)](https://csm.co.in).
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for help with VelocityX documentation.
@@ -40,8 +41,8 @@
 - ⚡ Fun fact: I love making animation and art work.
 
 [![Twitter: AfaqueJaya](https://img.shields.io/twitter/follow/afaquejaya?style=social)](https://twitter.com/afaquejaya)
-[![Linkedin: AfaqueJaya](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afaquejaya/)](https://www.linkedin.com/in/afaque-jaya-5b6311134/)
-[![GitHub AfaqueJAya](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Afaquejaya)
+[![Linkedin: AfaqueJaya](https://img.shields.io/badge/-afaquejaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afaquejaya/)](https://www.linkedin.com/in/afaque-jaya-5b6311134/)
+[![GitHub AfaqueJAya](https://img.shields.io/github/followers/Afaquejaya?label=follow&style=social)](https://github.com/Afaquejaya)
 [![website](https://img.shields.io/badge/PortfolioWebsite-AfaqueJaya.io-2648ff?style=flat-square&logo=google-chrome)](https://afaquejaya.github.io/)
 
 
