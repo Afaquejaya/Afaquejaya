@@ -9,11 +9,11 @@
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Afaquejaya">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Afaque's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <a href="https://www.instagram.com/afaque_jaya/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Afaque's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <!---<a href="https://t.me/imthepk">
   <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -22,7 +22,7 @@
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>--->
 <a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Afaque's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -33,12 +33,12 @@
 - 🔭 I’m currently working On [State Gov. Project](https://play.google.com/store/apps/details?id=com.evidyavahini.app)
 - 🏢 I’m currently working in [CSM Technology (CMMIL-5)](https://csm.co.in).
 - 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCWqwi6gFJEXfWw5SosNekSQ).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @afaquejaya](https://twitter.com/afaquejaya) , [Youtube - @afaquejaya](https://www.youtube.com/channel/UCWqwi6gFJEXfWw5SosNekSQ)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love making animation and art work.
+- ⚡ Fun fact: I love to learn about new technology and develope project in it (Block Chain, AR, Android) & Love making animation and art work.
 
 [![Twitter: AfaqueJaya](https://img.shields.io/twitter/follow/afaquejaya?style=social)](https://twitter.com/afaquejaya)
 [![Linkedin: AfaqueJaya](https://img.shields.io/badge/-afaquejaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afaquejaya/)](https://www.linkedin.com/in/afaque-jaya-5b6311134/)
