@@ -32,9 +32,8 @@
 
 - 🔭 I’m currently working On [State Gov. Project](https://play.google.com/store/apps/details?id=com.evidyavahini.app)
 - 🏢 I’m currently working in [CSM Technology (CMMIL-5)](https://csm.co.in).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCWqwi6gFJEXfWw5SosNekSQ).
-- 🤔 I’m looking for help with VelocityX documentation.
+- 🌱 I’m currently learning more about Android, Spring Boot.
+- 🤔 I’m looking for help with open source android project.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @afaquejaya](https://twitter.com/afaquejaya) , [Youtube - @afaquejaya](https://www.youtube.com/channel/UCWqwi6gFJEXfWw5SosNekSQ)
 - 😄 Pronouns: He/His
