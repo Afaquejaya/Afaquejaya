@@ -1,4 +1,4 @@
-## Hola, I'm [Afaque Java!](https://afaquejaya.github.io/) 👋
+## Hola, I'm [Afaque Jaya!](https://afaquejaya.github.io/) 👋
 <!--- REFERENCE= https://github.com/iampawan/iampawan/blob/master/README.md--->
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=afaquejaya&label=Views&color=blue&style=plastic" alt="afaquejaya" /> </p>--->
 
