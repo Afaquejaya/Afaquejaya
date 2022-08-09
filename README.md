@@ -32,12 +32,12 @@
 
 - 🔭 I’m currently working On [State Gov. Project](https://play.google.com/store/apps/details?id=com.evidyavahini.app)
 - 🏢 I’m currently working in [CSM Technology (CMMIL-5)](https://csm.co.in).
-- 🌱 I’m currently learning more about Android, Spring Boot.
+- 🌱 I’m currently learning more about Android | Kotlin | Flutter | Spring Boot.
 - 🤔 I’m looking for help with open source android project.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @afaquejaya](https://twitter.com/afaquejaya) , [Youtube - @afaquejaya](https://www.youtube.com/channel/UCWqwi6gFJEXfWw5SosNekSQ)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to learn about new technology and develope project in it (Block Chain, AR, Android) & Love making animation and art work.
+- ⚡ Fun fact: I love to learn about new technology and develope project in it (Block Chain, Cloud, Android) & Love making animation and art work.
 
 [![Twitter: AfaqueJaya](https://img.shields.io/twitter/follow/afaquejaya?style=social)](https://twitter.com/afaquejaya)
 [![Linkedin: AfaqueJaya](https://img.shields.io/badge/-afaquejaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afaquejaya/)](https://www.linkedin.com/in/afaque-jaya-5b6311134/)
