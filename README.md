@@ -44,6 +44,8 @@
 [![GitHub AfaqueJAya](https://img.shields.io/github/followers/Afaquejaya?label=follow&style=social)](https://github.com/Afaquejaya)
 [![website](https://img.shields.io/badge/PortfolioWebsite-AfaqueJaya.io-2648ff?style=flat-square&logo=google-chrome)](https://afaquejaya.github.io/)
 
+<img src="https://komarev.com/ghpvc/?username=Afaquejaya&label=Profile%20views&color=8042fc&style=plastic" alt="Afaquejaya" /> 
+
 
 **Languages and Tools:**  
 
