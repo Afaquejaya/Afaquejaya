@@ -30,14 +30,14 @@
 
 
 
-- 🔭 I’m currently working On [State Gov. Project](https://play.google.com/store/apps/details?id=com.evidyavahini.app)
-- 🏢 I’m currently working in [CSM Technology (CMMIL-5)](https://csm.co.in).
-- 🌱 I’m currently learning more about Android | Kotlin | Flutter | Spring Boot.
-- 🤔 I’m looking for help with open source android project.
-- 💬 Ask me about Android or any tech related stuff.
+- 🔭 I’m currently working on [JEEB Grocery Deliver App](https://play.google.com/store/apps/details?id=com.jeeb.user)
+- 🏢 I’m currently working in [JEEB Grocery Deliver Company](https://jeeb.tech/) (Product Based Company)
+- 🌱 I’m currently learning more about Android | Kotlin | Flutter | AI Tools.
+- 🤔 I’m looking for help with open source Android project.
+- 💬 Ask me about Android or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @afaquejaya](https://twitter.com/afaquejaya) , [Youtube - @afaquejaya](https://www.youtube.com/channel/UCWqwi6gFJEXfWw5SosNekSQ)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to learn about new technology and develope project in it (Block Chain, Cloud, Android) & Love making animation and art work.
+- ⚡ Fun fact: I love to learn about new technology and develop the project in it (Block Chain, Cloud, Android) & Lovemaking animation and artwork.
 
 [![Twitter: AfaqueJaya](https://img.shields.io/twitter/follow/afaquejaya?style=social)](https://twitter.com/afaquejaya)
 [![Linkedin: AfaqueJaya](https://img.shields.io/badge/-afaquejaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afaquejaya/)](https://www.linkedin.com/in/afaque-jaya-5b6311134/)
@@ -67,9 +67,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afaquejaya&theme=light&hide_langs_below=1" />
 </a>
 
+<!---
 <a href="https://github.com/Afaquejaya">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Afaquejaya&show_icons=true&theme=light&line_height=27" alt="Afaque's github stats"/>
 </a>
+--->
 
 <!---<a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
