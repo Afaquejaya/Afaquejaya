@@ -31,7 +31,7 @@
 
 
 - 🔭 I’m currently working on [JEEB Grocery Deliver App](https://play.google.com/store/apps/details?id=com.jeeb.user)
-- 🏢 I’m currently working in [JEEB Grocery Deliver Company](https://jeeb.tech/) (Product Based Company)
+- 🏢 I’m currently working in [JEEB](https://jeeb.tech/) (Product Based Company)
 - 🌱 I’m currently learning more about Android | Kotlin | Flutter | AI Tools.
 - 🤔 I’m looking for help with open source Android project.
 - 💬 Ask me about Android or any tech-related stuff.
