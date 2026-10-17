@@ -9,7 +9,7 @@ I'm a Senior Software Engineer with **7+ years of experience** building mobile a
 I enjoy working at the intersection of **engineering, product thinking, and AI** — from building high-performance mobile experiences to exploring intelligent systems that automate real-world workflows.
 
 <p align="left">
-  <a href="https://afaquejaya.github.io/cv/cv.html">
+  <a href="https://afaquejaya.github.io">
     <img src="https://img.shields.io/badge/Explore_My_Portfolio-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/afaque-jaya-5b6311134/">
